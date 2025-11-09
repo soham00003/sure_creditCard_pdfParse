@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pikepdf
+pytesseract
+Pillow
+python-dateutil
